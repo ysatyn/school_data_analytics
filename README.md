@@ -8,3 +8,6 @@
 - [main.py](https://github.com/ysatyn/school_data_analytics/blob/main/main.py) - программа на Python для анализа данных
 - [library_comparison.md](https://github.com/ysatyn/school_data_analytics/blob/main/library_comparison.md) - таблица с сравнением библиотек анализа данных
 
+### Дополнительно
+
+[Анкета для заполнения ](https://forms.gle/1bnXpb4V4DeUSPcr5)
